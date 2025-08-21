@@ -28,10 +28,11 @@
 
 <br>
 
-<h2 align="center">�️ The tools I usually use</h2>
+<h2 align="center">🛠️ The tools I usually use</h2>
 
 <p align="center">
   <img src="./img/laragon.png" alt="Laragon" height="48" />
+  <img src="./img/xampp.png" alt="Xampp" height="48" />
   <img src="https://skillicons.dev/icons?i=vscode,laravel,nodejs,postman,github,powershell,discord" />
 </p>
 
