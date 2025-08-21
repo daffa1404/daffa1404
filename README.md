@@ -16,10 +16,8 @@
 
 <br>
 <h2 align="center">The tools I usually use</h2>
-<p align="center">
 
- ![My Skills](https://skillicons.dev/icons?i=vscode,laravel,nodejs,postman,github,powershell,discord)
-<img src="https://camo.githubusercontent.com/0e7b526d88d84770a3a40f05841e2f550d835c9de6ac4f65a5227cd9e64beefb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" />
+![My Skills](https://skillicons.dev/icons?i=vscode,laravel,nodejs,postman,github,powershell,discord)
+
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
-
-</p>
+<img src="https://camo.githubusercontent.com/0e7b526d88d84770a3a40f05841e2f550d835c9de6ac4f65a5227cd9e64beefb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" />
