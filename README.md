@@ -52,6 +52,22 @@
 
 <br>
 
+<h2 align="center">🔥 GitHub Streak Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffa1404&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=ff7b72&currStreakLabel=c9d1d9&border_radius=8" height="200em"/>
+</div>
+
+<br>
+
+<h2 align="center">📈 Contribution Activity Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daffa1404&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff7b72&area=true&custom_title=Daffa's%20Contribution%20Activity" width="95%"/>
+</div>
+
+<br>
+
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <div align="center">
