@@ -31,10 +31,24 @@
 <h2 align="center">🛠️ The tools I usually use</h2>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel" />
   <img src="./img/laragon.png" alt="Laragon" height="48" />
-  <img src="./img/xampp.png" alt="Xampp" height="48" />
-  <img src="https://skillicons.dev/icons?i=vscode,laravel,nodejs,postman,github,powershell,discord" />
+  <img src="./img/xampp.png" alt="XAMPP" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=powershell" />
+  <img src="https://skillicons.dev/icons?i=discord" />
 </p>
+
+<br>
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daffa1404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" height="180em"/>
+</div>
 
 <br>
 
