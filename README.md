@@ -52,14 +52,6 @@
 
 <br>
 
-<h2 align="center">🔥 GitHub Streak Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daffa1404&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=ff7b72&currStreakLabel=c9d1d9&border_radius=8" height="200em"/>
-</div>
-
-<br>
-
 <h2 align="center">📈 Contribution Activity Graph</h2>
 
 <div align="center">
