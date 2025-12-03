@@ -44,13 +44,6 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daffa1404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" height="180em"/>
-</div>
-
-<br>
 
 <h2 align="center">📈 Contribution Activity Graph</h2>
 
